@@ -1,5 +1,11 @@
 # GROUP6---FarmaKita
 BSIT - 3C, Eulogio "Amang" Rodriguez Institute of Science and Technology
+Members:
+Delos Santos, Ken B.
+Lomocso, Jomar
+Magbitang, Chester
+Wong, Carl Lester
+
 
 IT Department
 
